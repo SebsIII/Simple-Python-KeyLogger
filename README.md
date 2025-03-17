@@ -1,5 +1,5 @@
-> [!WARNING]
-> I am not encouraging no one to do illegal things, so, use this script ONLY this someone that you know.
+> [!CAUTION]
+> I am not encouraging no one to do illegal things, so, use this script ONLY with someone that you know.
 # Python KeyLogger
 This is a simple python key logger that "listens" to the Keys clicked by the user and outputs them in a txt file called Key_log.txt (customizable).
 It Writes them like so:
